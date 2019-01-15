@@ -1,5 +1,5 @@
 import './index.less'
-import './index.css'
+import './index2.css'
 import {setCookie} from 'utils'
 
 var src = require('./img/1.png')

@@ -97,6 +97,6 @@ module.exports = {
             filename: 'index.html',
             template: 'src/index.html'
         }),
-        new ExtractTextPlugin('index.css'),
+        new ExtractTextPlugin('[name][hash].css'),  //index.css
     ],
 }
