@@ -1,0 +1,6 @@
+body{
+    height: 100%;
+    background-color: palevioletred;
+}html body {
+  border: 20px solid blue;
+}
